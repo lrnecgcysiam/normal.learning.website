@@ -12,7 +12,7 @@ updated:
 draft: false
 
 tags: ["vacation"]
-author: 'jane-doe'
+author: 'chris-samuel'
 ---
 
 An interesting day -- took my new phone through the paces.

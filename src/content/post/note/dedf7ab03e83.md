@@ -5,7 +5,7 @@ updated: 2022-02-22 22:12:22 +05:30
 draft: false
 
 tags: ["typography"]
-author: 'jane-doe'
+author: 'chris-samuel'
 ---
 
 While this would appear as a double dash on development, it will appear as an em dash on production:

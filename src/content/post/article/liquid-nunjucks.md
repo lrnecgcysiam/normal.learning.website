@@ -6,7 +6,7 @@ draft: false
 title: "Check for a string in an array - Liquid vs Nunjucks"
 slug: "check-string-in-array-liquid-vs-nunjucks"
 
-author: jane-doe
+author: chris-samuel
 tags:
 - how-to
 - liquid

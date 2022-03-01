@@ -12,7 +12,7 @@ tags:
 - firefox
 content-description: Upset with Firefox's performance, I decided to trial other browsers on the market. Here's my experience with Vivaldi after having used it for 2 days.
 
-author: 'jane-doe'
+author: 'chris-samuel'
 
 eleventyComputed:
     featured-image: '{% image "./src/assets/img/vivaldi.jpg", "A screenshot of Vivaldi browser, showing its settings menu, with the theme configuration currently active." %}'

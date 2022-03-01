@@ -4,7 +4,7 @@
 	"authors": [
 		{
 			"name": "Jane Doe",
-			"slug": "jane-doe",
+			"slug": "chris-samuel",
 			"introduction": "I'm a florist and a mother of two kids. I work at <a href='https://thispersondoesnotexist.com'>This Person Does Not Exist</a>. I enjoy taking long walks at the beach and playing games on my Nintendo Switch.",
 			"roles": ["owner"],
 			"website": "/",
@@ -18,14 +18,14 @@
 				{
 					"slug": "twitter",
 					"label": "Twitter",
-					"username": "MaybeThisIsRu",
-					"link": "https://twitter.com/MaybeThisIsRu"
+					"username": "lrnecgysiam",
+					"link": "https://twitter.com/lrnecgysiam"
 				},
 				{
 					"slug": "github",
 					"label": "GitHub",
-					"username": "MaybeThisIsRu",
-					"link": "https://github.com/MaybeThisIsRu"
+					"username": "lrnecgysiam",
+					"link": "https://github.com/lrnecgysiam"
 				}
 			],
 			"picture": "IMG_0906.jpg"
