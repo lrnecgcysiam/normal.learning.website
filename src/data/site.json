@@ -1,11 +1,11 @@
 {
-	"title": "Jane Doe",
+	"title": "Chris Samuel",
 	"subtitle": "",
 	"authors": [
 		{
-			"name": "Jane Doe",
+			"name": "Chris Samuel",
 			"slug": "chris-samuel",
-			"introduction": "I'm a florist and a mother of two kids. I work at <a href='https://thispersondoesnotexist.com'>This Person Does Not Exist</a>. I enjoy taking long walks at the beach and playing games on my Nintendo Switch.",
+			"introduction": "Hi I am a Content creator who likes technology and wants to share with others.",
 			"roles": ["owner"],
 			"website": "/",
 			"socials": [
@@ -13,7 +13,7 @@
 					"slug": "email",
 					"label": "Email",
 					"username": "",
-					"link": "mailto:smix@rusingh.com"
+					"link": "mailto:encryptable@pm.me"
 				},
 				{
 					"slug": "twitter",
