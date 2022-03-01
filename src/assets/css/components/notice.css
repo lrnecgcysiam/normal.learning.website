@@ -1,0 +1,54 @@
+.notice {
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-lg);
+  border-top: 2px dashed var(--gray-300);
+  border-bottom: 2px dashed var(--gray-300);
+  padding-top: var(--space-xs);
+  padding-bottom: var(--space-xs);
+
+  & * {
+    font-size: var(--text-sm);
+  }
+
+  & :first-child {
+    margin-top: 0;
+  }
+
+  & :last-child {
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (--dm) {
+  .notice {
+    border-top: 2px dashed var(--gray-800);
+    border-bottom: 2px dashed var(--gray-800);
+  }
+}
+
+.notice--info,
+.notice--warn {
+  position: relative;
+
+  &::before {
+    position: absolute;
+    top: var(--space-xs);
+    left: calc(var(--space-lg) * -1);
+  }
+}
+
+.notice--info {
+  &::before {
+    content: "ℹ️";
+  }
+}
+
+.notice--warn {
+  & * {
+    color: lch(64% 41 82); /* doesn't work, report to PostCSS? */
+  }
+
+  &::before {
+    content: "⚠️";
+  }
+}
