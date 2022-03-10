@@ -4,7 +4,7 @@ module.exports = function() {
 	var src = {
 		default: {},
 		development: {
-			siteBaseUrl: "http://localhost:8080"
+			siteBaseUrl: "https://www.conveyconsciousness.com/"
 		},
 		production: {
 			siteBaseUrl: "https://smix.netlify.app"
